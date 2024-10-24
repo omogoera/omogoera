@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omogoera
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...javascript, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...PowerBI, Python, javascript, HTML, CSS
+- 💞️ I’m looking to collaborate on ... PowerBI
 - 📫 How to reach me ...
 
 <!---
